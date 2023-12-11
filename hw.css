@@ -1,0 +1,90 @@
+.circle{
+
+
+    
+
+    height:135px;
+    width: 135px;
+    background-color: darkgreen;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 5px;
+
+}
+#second-circle{
+
+    background-color: grey;
+   margin-left: 195px;
+  
+}
+
+.square{
+
+    height: 150px;
+    width: 150px;
+    background-color:blue;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 15%;
+  }
+
+  .forth{
+
+    height: 150px;
+    width: 150px;
+    background-color:lightgreen;
+    padding: 10px;
+    margin: 15px;
+    border-bottom-left-radius: 100%;
+
+
+  }
+
+ 
+
+.youtube{
+    
+    width: 150px;
+    height: 150px;
+    background-color: #e21;
+    padding: 15px;
+    margin-left: 55px;
+    border-radius: 50% / 11%;
+}
+
+
+
+.half-circle1{
+
+    width: 10rem;
+    height: 5rem;
+   
+    border-radius: 5rem 5rem 0 0;
+    background-color: #1594d8;
+
+    float: left;
+}
+
+#f{
+
+    background-color: #e21;
+}
+#s{
+
+    background-color: rgb(223, 238, 17);
+}
+
+#t{
+
+    background-color: rgb(17, 238, 54);
+}
+
+#ff{
+
+    background-color: rgb(17, 21, 238);
+}
+
+
+
+
+
